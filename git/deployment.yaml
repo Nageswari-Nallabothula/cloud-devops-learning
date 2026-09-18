@@ -1,0 +1,4 @@
+app:
+  name: cloud-devops-demo
+  version: "1.0"
+  environment: development
